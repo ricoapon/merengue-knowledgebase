@@ -6,3 +6,4 @@ This is a website that stores all the Merengue knowledge in a structured way spe
 
 Useful links:
 - [All learned moves](/tags/learned)
+- [Moves to learn](/tags/todo)
